@@ -1,0 +1,37 @@
+.banner_1 {
+  background-image: url('../public//img/banner/1.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100%; /* Ensure the container covers at least the entire viewport height */
+  position: relative;
+}
+.banner_2 {
+  background-image: url('../public//img/banner/4.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100%; /* Ensure the container covers at least the entire viewport height */
+  position: relative;
+}
+.banner_3 {
+  background-image: url('../public//img/banner/2.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100%; /* Ensure the container covers at least the entire viewport height */
+  position: relative;
+}
+.banner_4 {
+  background-image: url('../public//img/banner/3.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100%; /* Ensure the container covers at least the entire viewport height */
+  position: relative;
+}
+
+.banner_bottom{
+  background-image: url('../public//img/banner/5.png');
+  background-size: cover;
+  background-position: center;
+  background-position-x: -80px;
+  /* Ensure the container covers at least the entire viewport height */
+  position: relative;
+}
